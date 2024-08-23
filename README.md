@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dbanyaibecker
 - 👀 I’m interested in conservation solutions and data analysis
 - 🌱 I’m currently learning machine learning and data viz in python 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on data solutions for conservation challenges and publications
 - 📫 How to reach me > dbanyaibecker@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a tattoo of a flying squirrel on my leg
